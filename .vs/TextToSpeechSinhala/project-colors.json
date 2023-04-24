@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adc0e51c-c874-442a-bbd5-f146c5b001e8": {
+      "ProjectGuid": "adc0e51c-c874-442a-bbd5-f146c5b001e8",
+      "DisplayName": "TextToSpeechSinhala",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
